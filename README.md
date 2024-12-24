@@ -101,7 +101,7 @@ git clone https://github.com/username/STM32-Traffic-Light.git
 ## 📸 Demo
 You can visit my linkedin profile to see the demo :
 ```bash
-https://www.linkedin.com/in/yassinomri/
+https://www.linkedin.com/feed/update/urn:li:activity:7277312173813514240/
 ```
 
 ## 🧩 Why FreeRTOS?
